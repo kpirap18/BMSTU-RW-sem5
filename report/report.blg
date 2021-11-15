@@ -1,28 +1,54 @@
-This is 8-bit Big BibTeX version 0.99d
-Implementation:  Microsoft(R) C/C++ for Win32
-Release version: 3.71 (04 mar 2019)
-
-The 8-bit codepage and sorting file: 88591lat.csf
+This is BibTeX, Version 0.99d (TeX Live 2019/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report.aux
-A level-1 auxilliary file: 00-title.aux
-A level-1 auxilliary file: 01-contents.aux
-A level-1 auxilliary file: 02-intro.aux
-A level-1 auxilliary file: 10-analysis.aux
-A level-1 auxilliary file: 20-design.aux
-A level-1 auxilliary file: 30-impl.aux
-A level-1 auxilliary file: 40-research.aux
-A level-1 auxilliary file: 50-conclusion.aux
-A level-1 auxilliary file: 51-biblio.aux
+A level-1 auxiliary file: 00-title.aux
+A level-1 auxiliary file: 02-intro.aux
+A level-1 auxiliary file: 51-biblio.aux
 The style file: utf8gost705u.bst
-Reallocated glb_str_ptr (elt_size=4) to 10 items from 0.
-Reallocated global_strs (elt_size=200001) to 10 items from 0.
-Reallocated glb_str_end (elt_size=4) to 10 items from 0.
 Database file #1: 51-biblio.bib
-
-Here's how much of BibTeX's memory you used:
- Cites:                 8 out of 750
- Fields:              212 out of 5000
- Hash table:       199776 out of 200000
- Strings:             702 out of 200000
- Free string pool:   6914 out of 65000
- Wizard functions:   2958 out of 3000
+Too many commas in name 1 of "Taabish Gulzar, Anand Singh, Dinesh Kumar Rajoriya, Najma Farooq" for entry spr
+while executing---line 3019 of file utf8gost705u.bst
+Too many commas in name 1 of "А.К.Алимурадов, А.Ю.Тычков, А.П.Зарецкий, А.П.Кулешов" for entry kepstr
+while executing---line 3019 of file utf8gost705u.bst
+You've used 3 entries,
+            2958 wiz_defined-function locations,
+            690 strings with 5980 characters,
+and the built_in function-call counts, 1287 in all, are:
+= -- 174
+> -- 15
+< -- 3
++ -- 6
+- -- 3
+* -- 63
+:= -- 139
+add.period$ -- 12
+call.type$ -- 3
+change.case$ -- 0
+chr.to.int$ -- 0
+cite$ -- 3
+duplicate$ -- 61
+empty$ -- 118
+format.name$ -- 3
+if$ -- 335
+int.to.chr$ -- 0
+int.to.str$ -- 3
+missing$ -- 0
+newline$ -- 28
+num.names$ -- 9
+pop$ -- 22
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 55
+stack$ -- 0
+substring$ -- 112
+swap$ -- 46
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 12
+width$ -- 4
+write$ -- 57
+(There were 2 error messages)

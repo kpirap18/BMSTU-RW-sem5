@@ -7,58 +7,29 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{matrix}
-\selectlanguageifdefined{russian}
-Матрица [Электронный ресурс].
-\newblock Режим доступа: \url{https://terme.ru/termin/matrica.html}
-  (дата обращения: 13.09.2021).
-
-\bibitem{vinogr}
-\selectlanguageifdefined{russian}
-Умножение матриц [Электронный ресурс].
-\newblock Режим доступа:
-  \url{http://algolib.narod.ru/Math/Matrix.html} (дата обращения:
-  13.09.2021).
-
-\bibitem{Cohn}
+\bibitem{spr}
 \selectlanguageifdefined{english}
-Group-theoretic Algorithms for Matrix Multiplication~/ H.~Cohn, R.~Kleinberg,
-  B.~Szegedy et~al.~// Proceedings of the 46th Annual Symposium on Foundations
-  of Computer Science.
-\newblock 2005.  October.
-\newblock P.~379--388.
+Taabish~Gulzar~Anand~Singh~D. K. R. N.~F. A Systematic Analysis of Automatic
+  Speech Recognition: An Overview~// International Journal of Current
+  Engineering and Technology.
+\newblock 2014.  E-ISSN 2277 – 4106, P-ISSN 2347 - 5161.
+\newblock P.~1664--1675.
 
-\bibitem{pythonlang}
+\bibitem{fur_veivlet}
 \selectlanguageifdefined{russian}
-Welcome to Python [Электронный ресурс].
-\newblock Режим доступа: \url{https://www.python.org} (дата
-  обращения: 04.09.2021).
+А.П.Зубаков. Фурье и Вейвлет-преобразования
+  в проблемах распознавания речи~// Вестник
+  ТГУ.
+\newblock 2010.  т.15, вып.6.
+\newblock {С.}~1893--1899.
 
-\bibitem{pythonlangtime}
+\bibitem{kepstr}
 \selectlanguageifdefined{russian}
-time — Time access and conversions [Электронный ресурс].
-\newblock Режим доступа:
-  \url{https://docs.python.org/3/library/time.html#functions} (дата
-  обращения: 04.09.2021).
-
-\bibitem{ubuntu}
-\selectlanguageifdefined{russian}
-Ubuntu 20.04.3 LTS (Focal Fossa) [Электронный ресурс].
-\newblock Режим доступа: \url{https://releases.ubuntu.com/20.04/}
-  (дата обращения: 04.09.2021).
-
-\bibitem{linux}
-\selectlanguageifdefined{russian}
-Linux -- Википедия [Электронный ресурс].
-\newblock Режим доступа: \url{https://ru.wikipedia.org/wiki/Linux}
-  (дата обращения: 04.09.2021).
-
-\bibitem{intel}
-\selectlanguageifdefined{russian}
-Процессор Intel® Core™ i5-1135G7 [Электронный
-  ресурс].
-\newblock Режим доступа:
-  \url{https://www.intel.ru/content/www/ru/ru/products/sku/208658/intel-core-i51135g7-processor-8m-cache-up-to-4-20-ghz/specifications.html}
-  (дата обращения: 04.09.2021).
+А.К.Алимурадов~А.Ю.Тычков~А.П.Зарецкий~А.П.Кулешов.
+  Способ определения кепстральных маркеров
+  речевых сигналов при психогенных
+  расстройствах~// Труды МФТИ.
+\newblock 2017.  Том 9, №4.
+\newblock {С.}~201--214.
 
 \end{thebibliography}

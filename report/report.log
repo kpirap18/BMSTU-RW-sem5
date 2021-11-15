@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.31)  8 NOV 2021 02:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.10.31)  15 NOV 2021 01:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1073,7 +1073,7 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count319
 \l__pdf_internal_box=\box65
 )
-(./report.aux (./00-title.aux) (./02-intro.aux))
+(./report.aux (./00-title.aux) (./02-intro.aux) (./51-biblio.aux))
 \openout1 = `report.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -1224,7 +1224,7 @@ Package geometry Warning: `pdftex': not available in `\newgeometry'; skipped.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-<inc/img/b_logo.jpg, id=12, 57.816pt x 65.3715pt>
+<inc/img/b_logo.jpg, id=15, 57.816pt x 65.3715pt>
 File: inc/img/b_logo.jpg Graphic file (type jpg)
 <use inc/img/b_logo.jpg>
 Package pdftex.def Info: inc/img/b_logo.jpg  used on input line 6.
@@ -1334,39 +1334,59 @@ Underfull \hbox (badness 10000) in paragraph at lines 26--30
 
 
 
-]) [3] [4]
+] [3]
+Overfull \hbox (38.0978pt too wide) in paragraph at lines 35--36
+\T2A/cmr/m/n/14.4 частотными кеп-страль-ны-ми ко-эф-фе-ци-ен-та-ми. Кепрст -- э
+то дискретно-
+ []
+
+) [4]
+\openout2 = `51-biblio.aux'.
+
+ (./51-biblio.tex (./report.bbl
+Underfull \hbox (badness 1331) in paragraph at lines 28--34
+[]\T2A/cmr/m/n/14.4 А.К.Алимурадов А.Ю.Тычков А.П.Зарецкий А.П.Кулешов. Спо-соб
+
+ []
+
+)) [5
+
+
+
+]
 
 Package caption Warning: Unused \captionsetup[figure] on input line 12.
 See the caption package documentation for explanation.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 19.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 19.
-(./report.aux (./00-title.aux) (./02-intro.aux))
+(./report.aux (./00-title.aux) (./02-intro.aux) (./51-biblio.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 19.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 19.
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: 79BB2D0823301D74D3CFDB9BE20C4AE2;108.
+(rerunfilecheck)             Checksum: 65B61A27FDD217E50869E2A12852D45D;232.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 19.
  ) 
 Here is how much of TeX's memory you used:
- 36604 strings out of 482657
- 840175 string characters out of 5957837
- 1184009 words of memory out of 5000000
- 51000 multiletter control sequences out of 15000+600000
- 543675 words of font info for 47 fonts, out of 8000000 for 9000
+ 36634 strings out of 482657
+ 840515 string characters out of 5957837
+ 1184557 words of memory out of 5000000
+ 51013 multiletter control sequences out of 15000+600000
+ 544493 words of font info for 48 fonts, out of 8000000 for 9000
  430 hyphenation exceptions out of 8191
- 73i,6n,102p,1457b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
- </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm1440.
-600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm144
-0.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx2
-488.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lab
-x2074.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
-arm1200.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a
-/labx1200.600pk>
-Output written on report.pdf (4 pages, 88773 bytes).
+ 73i,6n,102p,1428b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
+ </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/labx1440.60
+0pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/jknappen/ec/tcrm144
+0.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/larm1
+440.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/lab
+x2488.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a/l
+abx2074.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t2a
+/larm1200.600pk> </home/kpirap18/.texlive2019/texmf-var/fonts/pk/ljfour/lh/lh-t
+2a/labx1200.600pk>
+Output written on report.pdf (5 pages, 111671 bytes).
 PDF statistics:
- 240 PDF objects out of 1000 (max. 8388607)
- 50 compressed objects within 1 object stream
- 6 named destinations out of 1000 (max. 500000)
- 46 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 322 PDF objects out of 1000 (max. 8388607)
+ 70 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 54 words of extra memory for PDF output out of 10000 (max. 10000000)
 
