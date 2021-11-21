@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -7,13 +7,10 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{spr}
-\selectlanguageifdefined{english}
-Taabish~Gulzar~Anand~Singh~D. K. R. N.~F. A Systematic Analysis of Automatic
-  Speech Recognition: An Overview~// International Journal of Current
-  Engineering and Technology.
-\newblock 2014.  E-ISSN 2277 – 4106, P-ISSN 2347 - 5161.
-\newblock P.~1664--1675.
+\bibitem{classif}
+\selectlanguageifdefined{russian}
+Федосин~С.А.~Еремин А.~Ю. Классификация
+  систем распознавания речи.
 
 \bibitem{fur_veivlet}
 \selectlanguageifdefined{russian}
@@ -31,5 +28,72 @@ Taabish~Gulzar~Anand~Singh~D. K. R. N.~F. A Systematic Analysis of Automatic
   расстройствах~// Труды МФТИ.
 \newblock 2017.  Том 9, №4.
 \newblock {С.}~201--214.
+
+\bibitem{spr}
+\selectlanguageifdefined{english}
+Taabish~G.~A.~S. A Systematic Analysis of Automatic Speech Recognition: An
+  Overview~// International Journal of Current Engineering and Technology.
+\newblock 2014.  E-ISSN 2277 – 4106, P-ISSN 2347 - 5161.
+\newblock P.~1664--1675.
+
+\bibitem{rechsb2}
+\selectlanguageifdefined{english}
+R.~P. K.~R. Continuous Speech Recognition~// Asian Journal of Computer Science
+  And Information Technology.
+\newblock 2014.  62 - 66.
+\newblock P.~62--66.
+
+\bibitem{rechsb1}
+\selectlanguageifdefined{russian}
+В.О.~Верходанова~А.А.~Карпов. Моделирование
+  речевых сбоев в системах автоматического
+  распознавания речи.
+\newblock {С.}~10--15.
+
+\bibitem{slitrech}
+\selectlanguageifdefined{russian}
+А.А.~Леонович. Проблемы распознавания
+  слитной речи~// Цифровая Обработка
+  Сигналов.
+\newblock 2007.  No4.
+\newblock {С.}~1664--1675.
+
+\bibitem{isvparam1}
+\selectlanguageifdefined{english}
+Praphulla A.~Sawakare~R.~R. Speech Recognition Techniques~// International
+  Journal of Scientific, Engineering Research.
+\newblock 2015.  Volume 6, Issue 8, August-.
+\newblock P.~1664--1675.
+
+\bibitem{isvparam2}
+\selectlanguageifdefined{english}
+Kishori~R.~R.~R. Feature Extraction Techniques for Speech Recognition~//
+  International Journal of Scientific, Engineering Research.
+\newblock 2015.  Volume 6, Issue 5, Ma.
+\newblock P.~143--148.
+
+\bibitem{methodisb}
+\selectlanguageifdefined{russian}
+А.В.Судьенкова. Обзор методов извлечения
+  акустических признаков речи в задаче
+  распознавания диктора~// Сборник научных
+  трудов НГТУ.
+\newblock 2019.  № 3–4 (96).
+\newblock {С.}~139--164.
+
+\bibitem{methodisb2}
+\selectlanguageifdefined{russian}
+Первушин~Е.А. Обзор основных методов
+  распознавания дикторов~// Математические
+  структуры и моделирование.
+\newblock 2011.  вып. 24.
+\newblock {С.}~41--54.
+
+\bibitem{primer}
+\selectlanguageifdefined{english}
+S.~B. G.~V. Feature Extraction Techniques for Speech Recognition~//
+  International Journal of Speech Technology.
+\newblock 2021.  24:771–779.
+\newblock P.~771--780.
 
 \end{thebibliography}
