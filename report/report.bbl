@@ -7,10 +7,40 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
+\bibitem{vvegenie}
+\selectlanguageifdefined{english}
+Bhuvaneshwari~Jolad~D. R.~K. Different feature extraction techniques for
+  automatic speech recognition~// International Journal of Engineering
+  Sciences, Research Technology.
+\newblock 2018.  February.
+\newblock P.~181--188.
+
+\bibitem{vvegenie2}
+\selectlanguageifdefined{english}
+Shreya~Narang~M. D.~G. Speech Feature Extraction Techniques~// International
+  Journal of Computer Science and Mobile Computing.
+\newblock 2015.  March.
+\newblock P.~107 -- 114.
+
+\bibitem{vvegenie3}
+\selectlanguageifdefined{russian}
+И.Б.~Тампель~А.А.~Карпов. Автоматическое
+  распознование речи.
+\newblock Университет ИТМО, 2010.
+\newblock {с.}~138.
+
 \bibitem{classif}
 \selectlanguageifdefined{russian}
 Федосин~С.А.~Еремин А.~Ю. Классификация
   систем распознавания речи.
+
+\bibitem{babin}
+\selectlanguageifdefined{russian}
+Д.Н.~Бабин~И.Л.~Мазуренко~А.Б.~Холоденко. О
+  перспективах создания системы
+  автоматического распознавания слитной
+  устной русской речи.
+\newblock {С.}~10--15.
 
 \bibitem{fur_veivlet}
 \selectlanguageifdefined{russian}

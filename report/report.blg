@@ -3,6 +3,7 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: report.aux
 A level-1 auxiliary file: 00-title.aux
 A level-1 auxiliary file: 02-intro.aux
+A level-1 auxiliary file: 10-analysis.aux
 A level-1 auxiliary file: 51-biblio.aux
 The style file: utf8gost705u.bst
 Database file #1: 51-biblio.bib
@@ -14,49 +15,54 @@ You're missing a field part---line 189 of file 51-biblio.bib
  :  year=
  :       ,
 I'm skipping whatever remains of this entry
+You're missing a field part---line 211 of file 51-biblio.bib
+ :  year=
+ :       ,
+I'm skipping whatever remains of this entry
 Warning--empty journal in classif
+Warning--empty journal in babin
 Too many commas in name 1 of "А.К.Алимурадов, А.Ю.Тычков, А.П.Зарецкий, А.П.Кулешов" for entry kepstr
 while executing---line 3019 of file utf8gost705u.bst
 Warning--empty journal in rechsb1
-You've used 12 entries,
+You've used 16 entries,
             2958 wiz_defined-function locations,
-            740 strings with 7396 characters,
-and the built_in function-call counts, 4530 in all, are:
-= -- 620
-> -- 60
-< -- 12
-+ -- 24
-- -- 12
-* -- 213
-:= -- 478
-add.period$ -- 45
-call.type$ -- 12
+            762 strings with 8161 characters,
+and the built_in function-call counts, 5956 in all, are:
+= -- 811
+> -- 80
+< -- 16
++ -- 32
+- -- 16
+* -- 270
+:= -- 623
+add.period$ -- 60
+call.type$ -- 16
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 14
-duplicate$ -- 222
-empty$ -- 433
-format.name$ -- 12
-if$ -- 1202
+cite$ -- 19
+duplicate$ -- 297
+empty$ -- 577
+format.name$ -- 16
+if$ -- 1595
 int.to.chr$ -- 0
-int.to.str$ -- 12
+int.to.str$ -- 16
 missing$ -- 0
-newline$ -- 79
-num.names$ -- 36
-pop$ -- 90
+newline$ -- 102
+num.names$ -- 48
+pop$ -- 122
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 186
+skip$ -- 249
 stack$ -- 0
-substring$ -- 360
-swap$ -- 156
+substring$ -- 454
+swap$ -- 208
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 2
-while$ -- 45
-width$ -- 14
-write$ -- 190
-(There were 3 error messages)
+warning$ -- 3
+while$ -- 57
+width$ -- 18
+write$ -- 250
+(There were 4 error messages)
