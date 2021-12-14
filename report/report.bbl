@@ -88,6 +88,20 @@ R.~P. K.~R. Continuous Speech Recognition~// Asian Journal of Computer Science
 \newblock 2007.  No4.
 \newblock {С.}~1664--1675.
 
+\bibitem{defrechi}
+\selectlanguageifdefined{russian}
+Речевые нарушения [Электронный ресурс].
+\newblock Режим доступа:
+  \url{https://lena.spb.ru/rechevye-narusheniya.html} (дата
+  обращения: 11.12.2021).
+
+\bibitem{primer}
+\selectlanguageifdefined{english}
+S.~B. G.~V. Feature Extraction Techniques for Speech Recognition~//
+  International Journal of Speech Technology.
+\newblock 2021.  24:771–779.
+\newblock P.~771--780.
+
 \bibitem{isvparam1}
 \selectlanguageifdefined{english}
 Praphulla A.~Sawakare~R.~R. Speech Recognition Techniques~// International
@@ -118,12 +132,5 @@ Kishori~R.~R.~R. Feature Extraction Techniques for Speech Recognition~//
   структуры и моделирование.
 \newblock 2011.  вып. 24.
 \newblock {С.}~41--54.
-
-\bibitem{primer}
-\selectlanguageifdefined{english}
-S.~B. G.~V. Feature Extraction Techniques for Speech Recognition~//
-  International Journal of Speech Technology.
-\newblock 2021.  24:771–779.
-\newblock P.~771--780.
 
 \end{thebibliography}

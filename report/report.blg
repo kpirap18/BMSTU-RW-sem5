@@ -24,45 +24,45 @@ Warning--empty journal in babin
 Too many commas in name 1 of "А.К.Алимурадов, А.Ю.Тычков, А.П.Зарецкий, А.П.Кулешов" for entry kepstr
 while executing---line 3019 of file utf8gost705u.bst
 Warning--empty journal in rechsb1
-You've used 16 entries,
+You've used 17 entries,
             2958 wiz_defined-function locations,
-            762 strings with 8161 characters,
-and the built_in function-call counts, 5956 in all, are:
-= -- 811
-> -- 80
+            765 strings with 8360 characters,
+and the built_in function-call counts, 6064 in all, are:
+= -- 822
+> -- 81
 < -- 16
-+ -- 32
++ -- 33
 - -- 16
-* -- 270
-:= -- 623
-add.period$ -- 60
-call.type$ -- 16
+* -- 271
+:= -- 632
+add.period$ -- 62
+call.type$ -- 17
 change.case$ -- 0
 chr.to.int$ -- 0
-cite$ -- 19
-duplicate$ -- 297
-empty$ -- 577
+cite$ -- 20
+duplicate$ -- 304
+empty$ -- 593
 format.name$ -- 16
-if$ -- 1595
+if$ -- 1623
 int.to.chr$ -- 0
-int.to.str$ -- 16
+int.to.str$ -- 17
 missing$ -- 0
-newline$ -- 102
+newline$ -- 107
 num.names$ -- 48
-pop$ -- 122
+pop$ -- 128
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 249
+skip$ -- 252
 stack$ -- 0
 substring$ -- 454
-swap$ -- 208
+swap$ -- 211
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
 while$ -- 57
-width$ -- 18
-write$ -- 250
+width$ -- 19
+write$ -- 261
 (There were 4 error messages)
