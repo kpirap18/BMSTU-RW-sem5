@@ -5,6 +5,13 @@
 %\usepackage{pscyr} % Нормальные шрифты
 \usepackage{enumitem}
 
+
+
+
+\makeatletter
+\renewcommand\@biblabel[1]{#1.}
+\makeatother
+
 \usepackage{epstopdf}
 \usepackage{svg}
 
@@ -16,10 +23,11 @@
 
 \usepackage{amsmath}
 \usepackage{tikz}
+\usepackage{pdfpages}
 
 \usepackage{geometry}
 \geometry{left=30mm}
-\geometry{right=15mm}
+\geometry{right=10mm}
 \geometry{top=20mm}
 \geometry{bottom=20mm}
 
